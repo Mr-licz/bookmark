@@ -1,5 +1,5 @@
 # title of website
-title: bookmark
+title: 橙汁儿书签
 
 # description of website
 description: mr-licz's navigation site
@@ -26,7 +26,7 @@ google_analytics: "G-EXE1PJ8CR2"
 webstack:
   search:
     enabled: true
-    default: google
+    default: baidu
     # 可选的搜索引擎
     engines:
       - google
@@ -40,39 +40,39 @@ content:
   categories:
     - name: 常用推荐
       sites:
-        - name: Dribbble
-          description: 全球UI设计师作品分享平台。
-          url: https://dribbble.com/
-        - name: Behance
-          description: Adobe旗下的设计师交流平台，来自世界各地的设计师在这里分享自己的作品。
-          url: https://behance.net/
-        - name: UI中国
-          description: 图形交互与界面设计交流、作品展示、学习平台。
-          url: http://www.ui.cn/
-        - name: 站酷
-          description: 中国人气设计师互动平台
-          url: http://www.zcool.com.cn/
-        - name: Pinterest
-          description: 全球美图收藏采集站
-          url: https://www.pinterest.com/
-        - name: 花瓣
-          description: 收集灵感,保存有用的素材
-          url: http://huaban.com/
-        - name: 优设
-          description: 设计师交流学习平台
-          url: http://www.uisdc.com/
-        - name: Producthunt
-          description: 发现新鲜有趣的产品
-          url: https://www.producthunt.com/
-        - name: Youtube
-          description: 全球最大的学习分享平台
-          url: https://www.youtube.com/
-        - name: Google
-          description: 全球最大的UI学习分享平台
-          url: https://www.google.com/
-        - name: Medium
-          description: Read, write and share stories that matter
-          url: https://medium.com/
+        - name: 青柠味甜の中转站
+          description: 橙汁的资源分享平台
+          url: http://licz773.ysepan.com/
+        - name: 阿虚同学
+          description: 阿虚同学的万能百宝袋
+          url: https://www.axutongxue.com/
+        - name: Cnki
+          description: 中国知网知识发现网络平台—面向海内外读者提供中国学术文献
+          url: http://www.cnki.net/
+        - name: bilibili
+          description: 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+          url: https://www.bilibili.com/
+        - name: 知乎
+          description: 有问题，就会有答案。
+          url: https://www.zhihu.com/
+        - name: 豆瓣
+          description: 提供图书、电影、音乐唱片的推荐、评论和价格比较，记录你的非凡生活
+          url: https://www.douban.com/
+        - name: 微信公众平台
+          description: 再小的个体，也有自己的品牌
+          url: https://mp.weixin.qq.com/
+        - name: QQ邮箱
+          description: 为亿万用户提供高效稳定便捷的电子邮箱服务
+          url: https://mail.qq.com/
+        - name: 网易云音乐
+          description: 专注于发现和分享音乐的音乐平台
+          url: https://music.163.com/
+        - name: 青柠味甜的博客
+          description: 青柠味甜的博客。
+          url: https://blog.qingningweitian.top/
+        - name: 阿里云盘
+          description: 快速、不打扰、够安全、易于分享的个人网盘
+          url: https://www.aliyundrive.com/drive
     - name: 界面灵感
       sites:
         - name: 咕噜素材
