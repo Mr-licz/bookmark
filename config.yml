@@ -139,7 +139,7 @@ content:
           url: https://www.dianyinggou.com/
         - name: 厂长资源
           description: 备用域名 www.CZZY.Tv 及 www.czzzu.com
-          url: www.czzy01.com
+          url: https://www.czzy01.com/
         - name: BTNULL
           description: 原无名小站，备用线路改后缀为 to si nu in fun com
           url: https://www.btnull.org/
@@ -400,11 +400,53 @@ content:
         - name: 永硕E盘
           description: 
           url: http://licz773.ysepan.com/
-    - name: 平面素材
+    - name: 网盘搜索
       sites:
-        - name: wallhalla
-          description: Find awesome high quality wallpapers for desktop and mobile in one place.
-          url: https://wallhalla.com/
+        - name: 万人迷吧
+          description: 优质云盘搜索导航
+          url: https://www.wanrenmi8.com/
+        - name: UP云搜
+          description: 阿里云盘资源搜索
+          url: https://www.upyunso3.com/
+        - name: 奈斯搜索
+          description: 阿里云盘资源搜索
+          url: https://www.niceso.fun/
+        - name: 网盘小站
+          description: 论坛性质阿里云盘分享站
+          url: https://wpxz.org/
+        - name: 猫狸盘搜
+          description: 阿里云盘资源搜索
+          url: https://www.alipansou.com/
+        - name: 鸡盒盘
+          description: 阿里云盘资源站
+          url: https://jihepan.top/
+        - name: 我的小站
+          description: 论坛性质阿里云盘分享站
+          url: https://newxiaozhan.com/
+        - name: 阿里盘盘
+          description: 论坛性质阿里云盘分享站
+          url: https://www.panpanr.com/forum.php
+        - name: 小纸条
+          description: 开放纯粹的阿里云盘分享站
+          url: https://u.gitcafe.net/
+        - name: 找资源
+          description: 阿里云盘资源搜索
+          url: https://www.zhaoziyuan.la/
+        - name: vpan
+          description: 城通网盘资源分享站
+          url: http://ct.vpan123.com/
+        - name: 学搜搜
+          description: 百度网盘资源搜索
+          url: https://www.xuesousou.com/
+        - name: 罗马盘
+          description: 百度、阿里、夸克资源搜索
+          url: https://www.luomapan.com/#/
+        - name: 来搜一下
+          description: 百度、夸克、迅雷网盘资源搜索
+          url: https://www.laisoyixia.com/
+        - name: SoV5搜索
+          description: 百度网盘资源搜索
+          url: http://www.sov5.cn/
     - name: 邮箱安全
       sites:
         - name: Gmail
