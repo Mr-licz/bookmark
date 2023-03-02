@@ -94,7 +94,7 @@ content:
           description: 一站式搞定文献下载-访问码2020
           url: http://459.org/
         - name: 龙猫学术导航
-          decription: 提供国内外文献、图书下载入口-访问码2020
+          decription: 提供国内外文献图书下载入口-访问码2020
           url: http://www.6453.net/
         - name: Cnki
           description: 中国知网知识发现网络平台—面向海内外读者提供中国学术文献。
@@ -109,16 +109,16 @@ content:
           description: SCI-Hub论文下载可用网址链接-实时更新
           url: https://tool.yovisun.com/scihub/
         - name: SCI-Hub 镜像1
-          description: SCI-Hub 镜像1
+          description: SCI-Hub 镜像网站1
           url: http://sci-hub.ee/
         - name: SCI-Hub 镜像2
-          description: SCI-Hub 镜像2
+          description: SCI-Hub 镜像网站2
           url: https://sci-hub.wf/
-        - name: SCI-Hub 镜像1
-          description: SCI-Hub 镜像3
+        - name: SCI-Hub 镜像3
+          description: SCI-Hub 镜像网站3
           url: https://sci-hub.shop/
         - name: SCI-Hub 镜像4
-          description: SCI-Hub 镜像4
+          description: SCI-Hub 镜像网站4
           url: https://sci-hub.ren/
         - name: 科塔学术导航
           description: 覆盖面超全的学术导航
@@ -332,73 +332,73 @@ content:
     - name: 云端网盘
       sites:
         - name: 阿里云盘
-          description: 
+          description: 一款速度快、不打扰、够安全、易于分享的个人网盘
           url: https://www.aliyundrive.com/drive
         - name: 百度网盘
-          description: 
+          description: 为您提供文件的网络备份、同步和分享服务
           url: https://pan.baidu.com/
         - name: 天翼云盘
-          description: 
+          description: 中国电信推出的云存储服务，为用户提供跨平台的文件存储、备份、同步及分享服务
           url: https://cloud.189.cn/web/
         - name: TeraCloud
-          description: 
+          description: 支持webav的日本免费网盘
           url: https://ise.teracloud.jp/browser/
         - name: 微云
-          description: 
+          description: 通过微云 方便地在手机和电脑之间同步文件、推送照片和传输数据
           url: https://www.weiyun.com/
         - name: 超星云盘
-          description: 
+          description: 超星学习通的网盘服务
           url: http://passport2.chaoxing.com/login?fid=&refer=http://i.mooc.chaoxing.com
         - name: 蓝奏云
-          description: 
+          description: 天下武功，唯快不破!
           url: https://up.woozooo.com/
         - name: Yandex.disk
-          description: 
+          description: 俄罗斯的网盘服务
           url: https://disk.yandex.com/client/disk
         - name: GoogleDrive
-          description: 
+          description: 谷歌云盘
           url: https://drive.google.com/drive/my-drive
         - name: MEGA
-          description: 
+          description: Sync your entire MEGA Cloud or selected folders with your computer
           url: https://mega.nz/start
         - name: 小米云服务
-          description: 
+          description: 不是小米云盘哦
           url: https://i.mi.com/#/
         - name: pCloud
-          description: 
+          description: The synchronization works absolutely perfectly on multiple Macs and iPads
           url: https://www.pcloud.com/zh/
         - name: 坚果云
-          description: 
+          description: 一款便捷、安全的专业网盘产品，支持Webdav
           url: https://www.jianguoyun.com/
         - name: Dropbox
-          description: 
+          description: Dropbox brings everything—traditional files, cloud content, and web shortcuts—together in one place
           url: https://www.dropbox.com/
         - name: Box
-          description: 
+          description: Secure Cloud Content Management
           url: https://www.box.com/home
         - name: 中国移动云盘
-          description: 
+          description: 中国移动推出的网盘服务
           url: https://yun.139.com/w/#/
         - name: 城通网盘
-          description: 
+          description: The operation is simple and convenient, easy to understand, and supports mainstream platforms. 
           url: https://www.ctfile.com/
         - name: 牛奶快传
-          description: 
+          description: 无需注册即可传输文件，上传下载不限速。
           url: https://cowtransfer.com/
         - name: 文叔叔
-          description: 
+          description: 免费空间 40GB，一款永不限速的云存储产品。
           url: https://www.wenshushu.cn/
         - name: 115
-          description: 
+          description: 115生活，一生相伴
           url: https://115.com/
         - name: 夸克网盘
-          description: 
+          description: 为你带来极速体验
           url: https://pan.quark.cn/
         - name: 曲奇云盘
-          description: 
+          description: 一款资源丰富,空间大,群组共享便捷的网盘
           url: https://www.quqi.com/
         - name: 永硕E盘
-          description: 
+          description: 老牌网盘网站，网站式管理，无需软件
           url: http://licz773.ysepan.com/
     - name: 网盘搜索
       sites:
@@ -450,28 +450,28 @@ content:
     - name: 邮箱安全
       sites:
         - name: Gmail
-          description: 
+          description: 谷歌邮箱
           url: https://mail.google.com/mail/u/0/#inbox
         - name: QQ邮箱
-          description: 
+          description: 为亿万用户提供高效稳定便捷的电子邮箱服务
           url: https://mail.qq.com/cgi-bin/loginpage
         - name: 完美88邮箱
-          description: 
+          description: 88后缀很完美
           url: https://www.88.com/
         - name: 傲游百变邮箱
-          description: 
+          description: 影子邮箱，为邮箱安全保驾护航
           url: https://www.uu.me/
         - name: 临时邮箱
-          description: 
+          description: 临时邮箱1
           url: https://mail.td/zh
         - name: 临时邮箱
-          description: 
+          description: 临时邮箱2
           url: https://tempmail.cn/
         - name: Moakt Email
           description: 临时邮箱专业服务
           url: https://www.moakt.com/
         - name: 临时邮箱
-          description: 
+          description: 临时邮箱3
           url: https://www.linshi-email.com/
         - name: Unroll.me
           description: 邮件批量退订
