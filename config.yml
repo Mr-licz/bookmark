@@ -123,6 +123,33 @@ content:
         - name: 科塔学术导航
           description: 覆盖面超全的学术导航
           url: https://site.sciping.com/
+        - name: 专利之星
+          description: 专利检索系统
+          url: https://cprs.patentstar.com.cn/
+        - name: 专利查询（新）
+          description: 国家知识产权局-中国及多国专利查询系统
+          url: https://cpquery.cponline.cnipa.gov.cn/chinesepatent/index
+        - name: 专利查询（旧）
+          description: 国家知识产权局-中国及多国专利查询系统
+          url: http://cpquery.cnipa.gov.cn/
+        - name: 专利检索及分析
+          description: 国家知识产权局所有
+          url: http://pss-system.cnipa.gov.cn/sipopublicsearch/portal/uilogin-forwardLogin.shtml
+        - name: 专利信息服务平台
+          description: 知识产权出版社开发
+          url: http://search.cnipr.com/
+        - name: SooPAT专利搜索
+          description: 
+          url: http://www2.soopat.com/Home
+        - name: innojoy
+          description: 大为专利搜索引擎
+          url: http://www.innojoy.com/search/index.html
+        - name: Patentics
+          description: 搜索全球专利
+          url: https://www.patentics.com/searchcn.htm
+        - name: Espacenet
+          description: 欧洲专利数据库
+          url: https://worldwide.espacenet.com/advancedSearch?locale=en_EP
     - name: 电影搜索
       sites:
         - name: 搜片
@@ -479,21 +506,129 @@ content:
         - name: Verify email
           description: 邮箱有限性验证
           url: https://verify-email.org/
-    - name: UI资源
+    - name: 高清图库
       sites:
-        - name: Freebiesbug
-          description: Hand-picked resources for web designer and developers, constantly updated.
-          url: https://freebiesbug.com/
-    - name: Sketch资源
+        - name: wallhaven
+          description: The best wallpapers on the Net!
+          url: https://wallhaven.cc/
+        - name: Unsplash
+          description: Beautiful Free Image
+          url: https://unsplash.com/
+        - name: Wallroom
+          description: HD/4K/5K resolution wallpapers
+          url: https://wallroom.io/
+        - name: Simple Desktops
+          description: 极简桌面壁纸
+          url: http://simpledesktops.com/
+        - name: wallpaperwide
+          description: Free 4K/8K UltraHDDesktop Backgound Wallpapers
+          url: http://wallpaperswide.com/
+        - name: Goodfon
+          description: Free Desktop, Laptop, HDTV, and Mobile Wallpapers
+          url: https://www.goodfon.com/
+        - name: ZOL桌面壁纸
+          description: 电脑桌面壁纸大全
+          url: https://desk.zol.com.cn/
+        - name: Pexels
+          description: 才华横溢的摄影作者在这里免费分享最精彩的素材图片和视频。
+          url: https://www.pexels.com/zh-cn/
+        - name: pixabay
+          description: Stunning free images & royalty free stock
+          url: https://pixabay.com/
+        - name: 标小智
+          description: 免费版权图片一键搜索!
+          url: https://www.logosc.cn/so/
+        - name: CCO图片网
+          description: 免费可商用图片素材搜索
+          url: https://cc0.cn/
+        - name: 多搜搜
+          description: 无版权图片 22个网站聚合搜索
+          url: http://duososo.com/site/pic/
+    - name: 在线办公
       sites:
-        - name: Sketch
-          description: The digital design toolkit
-          url: https://sketchapp.com/
-    - name: 字体资源
+        - name: ALLtoALL
+          description: 国内最全类型的在线文件转换平台，免费、快速，无须下载安装任何软件。
+          url: https://www.alltoall.net/
+        - name: office converter
+          description: 转换音乐、视频、图像、PDF
+          url: https://cn.office-converter.com/
+        - name: CloudConvert
+          description: support nearly all audio, video, document, ebook, archive, image, spreadsheet, and presentation formats.
+          url: https://cloudconvert.com/
+        - name: Convertio
+          description: 文件转换器
+          url: https://convertio.co/zh/
+        - name: 小熊免费文件格式转换
+          description: 免费在线转换Office文档,音视频文件,图像等各种文件格式
+          url: https://www.ofoct.com/zh
+        - name: ASS转SRT
+          description: 字幕格式转换
+          url: https://lab.sorz.org/tools/asstosrt/
+        - name: FLACtoMP3
+          description: 音乐格式转换
+          url: https://www.flacmp3.net/online/
+        - name: 迅捷视频
+          description: 视频转换、视频编辑、音频转换、图片转换
+          url: https://www.xunjieshipin.com/online-converter
+        - name: Webpage to PDF
+          description: 网页转PDF
+          url: https://tools.pdf24.org/en/webpage-to-pdf
+        - name: PDF解密去除限制
+          description: PDF解密去限制、格式转换
+          url: http://www.pdfdo.com/pdf-remove-restriction.aspx
+        - name: ExtractPDF
+          description: 从PDF文件中提取图像，文本和字体。
+          url: https://www.extractpdf.com/
+        - name: PDFcandy
+          description: + 46多种在线PDF工具
+          url: https://pdfcandy.com/cn/
+        - name: 轻闪PDF
+          description: 只需一步，便可解决PDF所有问题
+          url: https://lightpdf.cn/
+        - name: hiPDF
+          description: Free All-In-One Online PDF Tool
+          url: https://www.hipdf.com/
+        - name: easyPDF
+          description: 完全匿名的PDF转换器
+          url: https://easypdf.com/cn
+    - name: 在线设计
       sites:
-        - name: Google Font
-          description: Making the web more beautiful, fast, and open through great typography
-          url: https://fonts.google.com/
+        - name: HIPPT
+          description: PPT资源导航站
+          url: https://www.hippter.com/index.html
+        - name: 草料二维码
+          description: 简单易用的二维码生成器
+          url: https://cli.im/
+        - name: 在线文件压缩
+          description: 免费优质压缩视频、图片及PDF文件
+          url: https://www.apowersoft.cn/compress-file-online
+        - name: YOUCOMPRESS
+          description: Compress MP4, MOV, MP3, PDF, PNG, JPG, JPEG, GIF files online for free.
+          url: https://www.youcompress.com/
+        - name: MDnice
+          description: Markdown让排版变nice
+          url: https://editor.mdnice.com/
+        - name: 秀米
+          description: 微信公众号编辑器
+          url: https://xiumi.us/
+        - name: 135编辑器
+          description: 微信公众号编辑器
+          url: https://www.135editor.com/
+        - name: iLoveIMG
+          description: 图像文件在线编辑器
+          url: https://www.iloveimg.com/zh-cn
+        - name: AnyCrop
+          description: 在线裁剪照片
+          url: https://www.iloveimg.com/zh-cn
+        - name: Watermark
+          description: 在线图片加水印
+          url: https://watermark.ws/
+        - name: 截图拼接
+          description: 电影字幕拼接工具
+          url: http://screenshots.hpday.cn/
+        - name: 美图秀秀
+          description: 美图秀秀在线编辑器
+          url: https://pc.meitu.com/
     - name: 电子书站
       sites:
         - name: 超星汇雅
@@ -538,14 +673,37 @@ content:
         - name: 西边云
           description: 图书下载
           url: http://xibianyun.com/book/
-    - name: 摄影图库
+    - name: 趣味网站
       sites:
-        - name: Unsplash
-          description: Beautiful, free photos.
-          url: https://unsplash.com/
-    - name: PPT资源
+        - name: BrowserFrame
+          description: 浏览器截图生成器
+          url: https://browserframe.com/
+        - name: 有趣网址之家
+          description: 收藏全球最有趣的网址
+          url: https://youquhome.com/
+        - name: 云风扇
+          description: 呼啦啦~心静自然凉
+          url: https://www.underseacat.com/fan
+        - name: OREOOO
+          description: 奥利奥生成器
+          url: https://oreo.ddiu.io/
+        - name: Fold FLY
+          description: 教你折纸飞机
+          url: https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2
+        - name: Maze Generator
+          description: 迷宫生成器
+          url: https://www.mazegenerator.net/
+        - name: 藏头诗制作
+          description: 藏头诗在线制作
+          url: https://www.shicimingju.com/cangtoushi/index.html
+        - name: Rubik
+          description: 在线拧魔方
+          url: https://iamthecu.be/
+    - name: 其他
       sites:
-        - name: OfficePLUS
-          description: OfficePLUS，微软Office官方在线模板网站！
-          url: http://www.officeplus.cn/Template/Home.shtml
-        - name: 优品PPT
+        - name: 逗比拯救世界
+          description: 专业的表情包搜索网站
+          url: https://www.dbbqb.com/
+        - name: ZZKIA
+          description: 诺基亚短信图片生成器
+          url: https://zzkia.noddl.me/
