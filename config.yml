@@ -14,7 +14,7 @@ url: https://mr-licz.github.io/bookmark/
 github: "https://github.com/mr-licz"
 
 # footer message
-footer: © 2021-2021 @mr-licz
+footer: © 2021-2023 @mr-licz
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
@@ -40,9 +40,12 @@ content:
   categories:
     - name: 常用推荐
       sites:
+        - name: 青柠味甜的博客
+          description: 橙汁的资源分享平台碎碎念
+          url: http://oranger.site/
         - name: 青柠味甜の中转站
           description: 橙汁的资源分享平台
-          url: http://licz773.ysepan.com/
+          url: http://licz773.cccpan.com/
         - name: 阿虚同学
           description: 阿虚同学的万能百宝袋
           url: https://www.axutongxue.com/
@@ -64,12 +67,6 @@ content:
         - name: QQ邮箱
           description: 为亿万用户提供高效稳定便捷的电子邮箱服务
           url: https://mail.qq.com/
-        - name: 网易云音乐
-          description: 专注于发现和分享音乐的音乐平台
-          url: https://music.163.com/
-        - name: 青柠味甜的博客
-          description: 青柠味甜的博客。
-          url: https://blog.qingningweitian.top/
         - name: 阿里云盘
           description: 快速、不打扰、够安全、易于分享的个人网盘
           url: https://www.aliyundrive.com/drive
@@ -81,6 +78,15 @@ content:
           url: https://github.com/
     - name: 学术科研
       sites:
+        - name: Cnki
+          description: 中国知网知识发现网络平台—面向海内外读者提供中国学术文献。
+          url: http://www.cnki.net/
+        - name: 万方数据
+          description: 万方数据知识服务平台
+          url: https://www.wanfangdata.com.cn/
+        - name: 维普
+          description: 中国期刊服务平台
+          url: http://qikan.cqvip.com/
         - name: 学术搜索
           description: 聚合文献搜索-站在巨人的肩膀上
           url: https://scholar.chongbuluo.com/
@@ -93,18 +99,6 @@ content:
         - name: 文献部落
           description: 一站式搞定文献下载-访问码2020
           url: http://459.org/
-        - name: 龙猫学术导航
-          decription: 提供国内外文献图书下载入口-访问码2020
-          url: http://www.6453.net/
-        - name: Cnki
-          description: 中国知网知识发现网络平台—面向海内外读者提供中国学术文献。
-          url: http://www.cnki.net/
-        - name: 万方数据
-          description: 万方数据知识服务平台
-          url: https://www.wanfangdata.com.cn/
-        - name: 维普
-          description: 中国期刊服务平台
-          url: http://qikan.cqvip.com/
         - name: SCI-Hub网址链接
           description: SCI-Hub论文下载可用网址链接-实时更新
           url: https://tool.yovisun.com/scihub/
@@ -120,21 +114,13 @@ content:
         - name: SCI-Hub 镜像4
           description: SCI-Hub 镜像网站4
           url: https://sci-hub.ren/
-        - name: 科塔学术导航
-          description: 覆盖面超全的学术导航
-          url: https://site.sciping.com/
+    - name: 专利检索
         - name: 专利之星
           description: 专利检索系统
           url: https://cprs.patentstar.com.cn/
         - name: 专利查询（新）
           description: 国家知识产权局-中国及多国专利查询系统
           url: https://cpquery.cponline.cnipa.gov.cn/chinesepatent/index
-        - name: 专利查询（旧）
-          description: 国家知识产权局-中国及多国专利查询系统
-          url: http://cpquery.cnipa.gov.cn/
-        - name: 专利检索及分析
-          description: 国家知识产权局所有
-          url: http://pss-system.cnipa.gov.cn/sipopublicsearch/portal/uilogin-forwardLogin.shtml
         - name: 专利信息服务平台
           description: 知识产权出版社开发
           url: http://search.cnipr.com/
@@ -150,14 +136,26 @@ content:
         - name: Espacenet
           description: 欧洲专利数据库
           url: https://worldwide.espacenet.com/advancedSearch?locale=en_EP
+        - name: 佰腾网
+          description: 查专利，就上佰腾网
+          url: https://www.baiten.cn/
+        - name: 知嘟嘟
+          description: 全球专利检索，就在知嘟嘟
+          url: https://www.iprdb.com/
     - name: 电影搜索
       sites:
-        - name: 搜片
-          description: 全网海量影片数据，轻松为你找到！
-          url: https://soupian.xyz/
+        - name: 热播之家
+          description: 高清电视影视线。
+          url: https://rebozj.pro/
+        - name: Free OK
+          description: 追剧也很卷。
+          url: https://www.freeok.me/
         - name: 7080网
           description: 一个简单的影视搜索。
           url: https://7080.wang/
+        - name: HDmoli
+          description: 地址发布页https://molicp.com/
+          url: https://www.hdmoli.com/
         - name: 茶杯狐
           description: 努力让找电影变得简单！
           url: https://cupfox.app
@@ -173,21 +171,12 @@ content:
         - name: 低端影视
           description: 网址发布页https://ddys.site
           url: https://ddys.art/
-        - name: MaGeDN
-          description: 专注分享高清下载
-          url: https://loli.magedn.com/
         - name: BT世界
           description: 高清电影，美剧下载
           url: https://www.btsj6.com/
-        - name: 在线之家
-          description: 备用域名 改后缀为site pro vip
-          url: https://www.zxzj.org/
         - name: 孩提的世界
           description: 宫崎骏与久石让作品资源站
           url: https://share.ghibliwiki.org/
-        - name: 看片狂人
-          description: 备用地址https://kpkuang.vip 发布页https://kpkuang.gitbook.io/new/ https://listed.to/p/l1PbMlAK7g
-          url: https://www.kpkuang.org/
         - name: 6V电影网
           description: 地址发布页https://www.6v123.com/
           url: http://www.hao6v.cc/
@@ -200,18 +189,9 @@ content:
         - name: 雅图在线
           description: 
           url: http://www.yatu.tv:2082/
-        - name: HDmoli
-          description: 地址发布页https://molicp.com/
-          url: https://www.hdmoli.com/
-        - name: 莫扎兔
-          description: 莫扎兔地址发布页https://mozhatu.vip/
-          url: https://www.mozhatu.com/
-        - name: 蓝光影院
-          description: 备用地址
-          url: https://www.lgyy.cc/
-        - name: 麦豆TV
-          description: 放走丢 微信公众号搜索：海听夜
-          url: https://www.mdoutv.com/
+        - name: 在线之家
+          description: 地址发布页https://www.zxzj.site/
+          url: https://www.zxzjhd.com/
         - name: 注视影视
           description: 魁拔爱好者
           url: https://gaze.run/
@@ -224,14 +204,11 @@ content:
         - name: 阿里云盘资源下载站
           description: 
           url: https://dianyingyuan.org/
-        - name: 盗火纪录片
-          description: 一个线上纪录片资料库
-          url: http://www.daofire.com/
     - name: 电影资讯
       sites:
-        - name: 此刻 电影日历
-          description: 每天一部优秀电影
-          url: https://www.cikeee.com/
+        - name: 艺恩娱数
+          description: 票房数据查询
+          url: https://ys.endata.cn/DataMarket/Index
         - name: TMDB
           description: 电影数据库
           url: https://www.themoviedb.org/
@@ -244,12 +221,9 @@ content:
         - name: 烂番茄
           description: 国外的影视评分平台
           url: https://www.rottentomatoes.com/
-        - name: 艺恩娱数
-          description: 票房数据查询
-          url: https://ys.endata.cn/DataMarket/Index
         - name: 字幕库
-          description: 备用地址https://zimuku.org/ 永久备用zmk.pw
-          url: https://zimuku.pw/
+          description: 备用地址 https://zimuku.vip/ 永久备用zmk.pw
+          url: hhttps://zimuku.org/
         - name: 射手网
           description: 字库下载老站
           url: https://assrt.net/
@@ -341,18 +315,12 @@ content:
         - name: MusicEnc
           description: 仅支持mp3格式
           url: https://www.musicenc.com/
-        - name: TheWind
-          description: 在线、下载
-          url: https://thewind.xyz/
         - name: 百乐米
           description: 分享好听稀有音乐
           url: https://bailemi.com/
         - name: Audio Mack
           description: 国外音乐站
           url: https://audiomack.com/
-        - name: uGEDIAO
-          description: 音乐推荐
-          url: https://www.ugediao.com/category/music
         - name: 麦田音乐网
           description: 用音乐和文字温暖生活
           url: https://www.mtyyw.com/
@@ -438,42 +406,21 @@ content:
         - name: 奈斯搜索
           description: 阿里云盘资源搜索
           url: https://www.niceso.fun/
-        - name: 网盘小站
-          description: 论坛性质阿里云盘分享站
-          url: https://wpxz.org/
+        - name: 易搜
+          description: 努力做最好用的云盘资源搜索引擎！
+          url: https://yiso.fun/
         - name: 猫狸盘搜
           description: 阿里云盘资源搜索
           url: https://www.alipansou.com/
-        - name: 鸡盒盘
-          description: 阿里云盘资源站
-          url: https://jihepan.top/
-        - name: 我的小站
-          description: 论坛性质阿里云盘分享站
-          url: https://newxiaozhan.com/
         - name: 阿里盘盘
           description: 论坛性质阿里云盘分享站
           url: https://www.panpanr.com/forum.php
         - name: 小纸条
           description: 开放纯粹的阿里云盘分享站
-          url: https://u.gitcafe.net/
-        - name: 找资源
-          description: 阿里云盘资源搜索
-          url: https://www.zhaoziyuan.la/
+          url: https://ali.gitcafe.ink/
         - name: vpan
           description: 城通网盘资源分享站
           url: http://ct.vpan123.com/
-        - name: 学搜搜
-          description: 百度网盘资源搜索
-          url: https://www.xuesousou.com/
-        - name: 罗马盘
-          description: 百度、阿里、夸克资源搜索
-          url: https://www.luomapan.com/#/
-        - name: 来搜一下
-          description: 百度、夸克、迅雷网盘资源搜索
-          url: https://www.laisoyixia.com/
-        - name: SoV5搜索
-          description: 百度网盘资源搜索
-          url: http://www.sov5.cn/
     - name: 邮箱安全
       sites:
         - name: Gmail
@@ -487,63 +434,6 @@ content:
           url: https://www.88.com/
         - name: 傲游百变邮箱
           description: 影子邮箱，为邮箱安全保驾护航
-          url: https://www.uu.me/
-        - name: 临时邮箱
-          description: 临时邮箱1
-          url: https://mail.td/zh
-        - name: 临时邮箱
-          description: 临时邮箱2
-          url: https://tempmail.cn/
-        - name: Moakt Email
-          description: 临时邮箱专业服务
-          url: https://www.moakt.com/
-        - name: 临时邮箱
-          description: 临时邮箱3
-          url: https://www.linshi-email.com/
-        - name: Unroll.me
-          description: 邮件批量退订
-          url: https://unroll.me/
-        - name: Verify email
-          description: 邮箱有限性验证
-          url: https://verify-email.org/
-    - name: 高清图库
-      sites:
-        - name: wallhaven
-          description: The best wallpapers on the Net!
-          url: https://wallhaven.cc/
-        - name: Unsplash
-          description: Beautiful Free Image
-          url: https://unsplash.com/
-        - name: Wallroom
-          description: HD/4K/5K resolution wallpapers
-          url: https://wallroom.io/
-        - name: Simple Desktops
-          description: 极简桌面壁纸
-          url: http://simpledesktops.com/
-        - name: wallpaperwide
-          description: Free 4K/8K UltraHDDesktop Backgound Wallpapers
-          url: http://wallpaperswide.com/
-        - name: Goodfon
-          description: Free Desktop, Laptop, HDTV, and Mobile Wallpapers
-          url: https://www.goodfon.com/
-        - name: ZOL桌面壁纸
-          description: 电脑桌面壁纸大全
-          url: https://desk.zol.com.cn/
-        - name: Pexels
-          description: 才华横溢的摄影作者在这里免费分享最精彩的素材图片和视频。
-          url: https://www.pexels.com/zh-cn/
-        - name: pixabay
-          description: Stunning free images & royalty free stock
-          url: https://pixabay.com/
-        - name: 标小智
-          description: 免费版权图片一键搜索!
-          url: https://www.logosc.cn/so/
-        - name: CCO图片网
-          description: 免费可商用图片素材搜索
-          url: https://cc0.cn/
-        - name: 多搜搜
-          description: 无版权图片 22个网站聚合搜索
-          url: http://duososo.com/site/pic/
     - name: 在线办公
       sites:
         - name: ALLtoALL
@@ -591,119 +481,3 @@ content:
         - name: easyPDF
           description: 完全匿名的PDF转换器
           url: https://easypdf.com/cn
-    - name: 在线设计
-      sites:
-        - name: HIPPT
-          description: PPT资源导航站
-          url: https://www.hippter.com/index.html
-        - name: 草料二维码
-          description: 简单易用的二维码生成器
-          url: https://cli.im/
-        - name: 在线文件压缩
-          description: 免费优质压缩视频、图片及PDF文件
-          url: https://www.apowersoft.cn/compress-file-online
-        - name: YOUCOMPRESS
-          description: Compress MP4, MOV, MP3, PDF, PNG, JPG, JPEG, GIF files online for free.
-          url: https://www.youcompress.com/
-        - name: MDnice
-          description: Markdown让排版变nice
-          url: https://editor.mdnice.com/
-        - name: 秀米
-          description: 微信公众号编辑器
-          url: https://xiumi.us/
-        - name: 135编辑器
-          description: 微信公众号编辑器
-          url: https://www.135editor.com/
-        - name: iLoveIMG
-          description: 图像文件在线编辑器
-          url: https://www.iloveimg.com/zh-cn
-        - name: AnyCrop
-          description: 在线裁剪照片
-          url: https://www.iloveimg.com/zh-cn
-        - name: Watermark
-          description: 在线图片加水印
-          url: https://watermark.ws/
-        - name: 截图拼接
-          description: 电影字幕拼接工具
-          url: http://screenshots.hpday.cn/
-        - name: 美图秀秀
-          description: 美图秀秀在线编辑器
-          url: https://pc.meitu.com/
-    - name: 电子书站
-      sites:
-        - name: 超星汇雅
-          description: 存量丰富的电子书库
-          url: https://www.sslibrary.com/
-        - name: 搜漫
-          description: 一站式漫画搜索引擎
-          url: https://www.soman.com/
-        - name: TheFuture
-          description: 书籍搜索
-          url: https://bks.thefuture.top/
-        - name: LoveFree
-          description: LoreFree是去中心化搜书平台
-          url: https://ebook2.lorefree.com/
-        - name: 鸠摩搜书
-          description: 文档搜索引擎
-          url: https://www.jiumodiary.com/
-        - name: 无名图书
-          description: 一个好看的电子书网站
-          url: https://www.book123.info/
-        - name: Anna's Archive
-          description: Zlibrary镜像
-          url: https://annas-archive.org/
-        - name: Clibrary
-          description: Zlibrary镜像
-          url: https://clibrary.cn/#/
-        - name: gamecmd
-          description: Zlibrary镜像
-          url: https://zlib.gamecmd.cyou/
-        - name: Zlibrary地址发布页
-          description: 
-          url: https://flowus.cn/share/9e98ccc3-c8fe-433c-bea7-800a92cee3b9
-        - name: hallowlib
-          description: Zlibrary镜像
-          url: https://bk.hallowlib.org/
-        - name: 资源帝电子书导航
-          description: 如题
-          url: http://shu.ziyuandi.cn/
-        - name: 熊猫搜书
-          description: 聚合搜书导航站
-          url: https://xmsoushu.com/#/
-        - name: 西边云
-          description: 图书下载
-          url: http://xibianyun.com/book/
-    - name: 趣味网站
-      sites:
-        - name: BrowserFrame
-          description: 浏览器截图生成器
-          url: https://browserframe.com/
-        - name: 有趣网址之家
-          description: 收藏全球最有趣的网址
-          url: https://youquhome.com/
-        - name: 云风扇
-          description: 呼啦啦~心静自然凉
-          url: https://www.underseacat.com/fan
-        - name: OREOOO
-          description: 奥利奥生成器
-          url: https://oreo.ddiu.io/
-        - name: Fold FLY
-          description: 教你折纸飞机
-          url: https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2
-        - name: Maze Generator
-          description: 迷宫生成器
-          url: https://www.mazegenerator.net/
-        - name: 藏头诗制作
-          description: 藏头诗在线制作
-          url: https://www.shicimingju.com/cangtoushi/index.html
-        - name: Rubik
-          description: 在线拧魔方
-          url: https://iamthecu.be/
-    - name: 其他
-      sites:
-        - name: 逗比拯救世界
-          description: 专业的表情包搜索网站
-          url: https://www.dbbqb.com/
-        - name: ZZKIA
-          description: 诺基亚短信图片生成器
-          url: https://zzkia.noddl.me/
