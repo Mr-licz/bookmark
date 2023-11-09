@@ -115,6 +115,7 @@ content:
           description: SCI-Hub 镜像网站4
           url: https://sci-hub.ren/
     - name: 专利检索
+      sites:
         - name: 专利之星
           description: 专利检索系统
           url: https://cprs.patentstar.com.cn/
